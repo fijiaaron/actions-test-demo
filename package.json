@@ -1,0 +1,29 @@
+{
+  "name": "actions-test-demo",
+  "version": "1.0.0",
+  "description": "Demonstrate how to run tests using github actions",
+  "main": "test.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fijiaaron/actions-test-demo.git"
+  },
+  "keywords": [
+    "Webdriver",
+    "Github",
+    "Actions",
+    "Test"
+  ],
+  "author": "Aaron Evans <aarone@one-shore.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fijiaaron/actions-test-demo/issues"
+  },
+  "homepage": "https://github.com/fijiaaron/actions-test-demo#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@wdio/cli": "^6.1.23"
+  }
+}
